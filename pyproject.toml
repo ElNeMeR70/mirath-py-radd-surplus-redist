@@ -1,0 +1,7 @@
+[project]
+name = "mirath-py-radd-surplus-redist"
+version = "1.0.0"
+description = "Al-Radd Estate Surplus Redistribution Solver (Excluding Spouses) (معالج مسائل الرد وتوزيع الفائض على أصحاب الفروض)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
